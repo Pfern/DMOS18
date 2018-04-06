@@ -7,3 +7,4 @@ Tentative date June 11 2018
 
 With a part on (lab or field) data management followed by a great deal of OSODOS, reusing 
 a metabarcoding use case from the mebioda course and tie it into our (and your) lab practices.
+Will contain elements of https://github.com/naturalis/mebioda and of http://osodos.org
